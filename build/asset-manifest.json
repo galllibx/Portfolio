@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/galllibx/static/css/main.bf538fe7.css",
+    "main.js": "/galllibx/static/js/main.645dfc7d.js",
+    "static/media/gift.jpg": "/galllibx/static/media/gift.2e755f04f1bafa0a337a.jpg",
+    "index.html": "/galllibx/index.html",
+    "main.bf538fe7.css.map": "/galllibx/static/css/main.bf538fe7.css.map",
+    "main.645dfc7d.js.map": "/galllibx/static/js/main.645dfc7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.645dfc7d.js"
+  ]
+}
